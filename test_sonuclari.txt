@@ -1,0 +1,18 @@
+=============================================
+🏃 ZIPLAMA TESTİ ANALİZ SONUÇLARI
+=============================================
+
+📍 BİYOMEKANİK VERİLER:
+- Maksimum Sıçrama (CoM) : 69.2 cm
+- Havada Kalma Süresi    : 0.45 saniye
+- Uçuş Süresi Yüksekliği : 24.8 cm
+- Yerle Temas Süresi     : Tespit edilmedi
+
+=============================================
+📊 MODEL PERFORMANS RAPORU
+=============================================
+- Toplam İşlenen Kare    : 136
+- Başarılı Tespit Oranı  : %100.00
+- Kare Başına İşlem Süresi: 41.02 ms
+- Ortalama Hız (FPS)     : 24.38 FPS
+=============================================

@@ -1,0 +1,8 @@
+jump_env/
+   weight/
+   *.pt
+   *.pth
+   *.mov
+   *.mp4
+   __pycache__/
+   .DS_Store
